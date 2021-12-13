@@ -4,7 +4,7 @@ entrypoints==0.3
 flake8==3.7.8
 idna==2.8
 isort==4.3.21
-lxml==3.7.3
+lxml==4.6.5
 mccabe==0.6.1
 pycodestyle==2.5.0
 pyflakes==2.1.1
